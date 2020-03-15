@@ -75,3 +75,11 @@ Submit a clear, concise and compelling resume, tailored to the type of job youâ€
 ### Updated LinkedIn Profile 
 
 Update my LinkedIn Profile with a strong bio statement, a professional photo, and links to my Github and portfolio.
+
+
+Heres screen shots of all my pages
+
+https://github.com/vannaksuos/Updated-Portfilio/blob/master/screenshot/about%20me.PNG
+https://github.com/vannaksuos/Updated-Portfilio/blob/master/screenshot/portfolio.PNG
+https://github.com/vannaksuos/Updated-Portfilio/blob/master/screenshot/contact.PNG
+https://github.com/vannaksuos/Updated-Portfilio/blob/master/screenshot/resume.PNG
