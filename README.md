@@ -80,11 +80,4 @@ Update my LinkedIn Profile with a strong bio statement, a professional photo, an
 Heres screen shots of all my pages
 
 
-![].(https://github.com/vannaksuos/Updated-Portfilio/blob/master/screenshot/about%20me.PNG)
 
-![].(https://github.com/vannaksuos/Updated-Portfilio/blob/master/screenshot/portfolio.PNG)
-
-![].(https://github.com/vannaksuos/Updated-Portfilio/blob/master/screenshot/contact.PNG)
-
-![].(https://github.com/vannaksuos/Updated-Portfilio/blob/master/screenshot/resume.PNG)
-![](https://github.com/vannaksuos/Password-Generator/blob/master/images/image1.png)
