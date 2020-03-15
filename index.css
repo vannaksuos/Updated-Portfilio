@@ -11,10 +11,6 @@
     background-size: cover;
   }
    
-  .name {
-    /* background-color:white; */
-  }
-
   img {
     margin-left: 20px;
     margin-right: 20px;
@@ -41,6 +37,20 @@
       float: left;
       margin-right: 40px;
   }
+
+  .form-group {
+      color: white;
+  }
+
+  .form-control {
+    width: 30%;
+  }
+
+  #contacts {
+     margin-left: 10px;
+  }
+
+  
   
   @media screen and (max-width: 980px) {
     
