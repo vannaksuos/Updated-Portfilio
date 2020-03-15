@@ -78,6 +78,10 @@ Update my LinkedIn Profile with a strong bio statement, a professional photo, an
 
 
 Heres screen shots of all my pages
+https://user-images.githubusercontent.com/59664686/76703464-3fd9d200-66a8-11ea-842d-657d9ed79611.PNG
+https://user-images.githubusercontent.com/59664686/76703468-4405ef80-66a8-11ea-9284-f6a62710b3ec.PNG
+https://user-images.githubusercontent.com/59664686/76703474-4700e000-66a8-11ea-9196-bd375f26d2a4.PNG
+https://user-images.githubusercontent.com/59664686/76703477-49fbd080-66a8-11ea-97fa-2d4816ecb4b2.PNG
 
 
 
