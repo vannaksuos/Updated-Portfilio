@@ -1,99 +1,108 @@
 * {
-    box-sizing: border-box;
-  }
-  
+  box-sizing: border-box;
+}
+
+body {
+
+  font-size: 10px;
+  line-height: 27px;
+  font-family: Bowlby One SC, cursive;
+  background-image: url("https://cdn.pixabay.com/photo/2015/11/04/20/59/milky-way-1023340__340.jpg");
+  background-size: cover;
+}
+
+img {
+  margin-left: 20px;
+  margin-right: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  float: left;
+  border-style: solid;
+  border-color: white;
+}
+
+a {
+  padding-left: 20px;
+  margin-right: 20px;
+}
+
+#about {
+  padding-left: 50px;
+  margin-right: 50px;
+}
+
+p,
+h1,
+h4 {
+  color: white;
+}
+
+.card {
+  float: left;
+  margin-left: 10px;
+  margin-right: 40px;
+  padding-right: 20px;
+}
+
+.form-group {
+  color: white;
+}
+
+.form-control {
+  width: 30%;
+}
+
+#contacts {
+  margin-left: 10px;
+}
+
+section {
+  padding-left: 400px;
+}
+
+.btn btn-primary
+{font-size: 10px;}
+
+
+
+@media screen and (max-width: 980px) {
+
   body {
-    
-    font-size: 18px;
-    line-height: 27px;
-    font-family:  Bowlby One SC, cursive;
-    background-image: url("https://cdn.pixabay.com/photo/2015/11/04/20/59/milky-way-1023340__340.jpg");
-    background-size: cover;
+    background-color: white;
   }
-   
-  img {
-    margin-left: 20px;
-    margin-right: 20px;
-    padding-left: 20px; 
-    padding-right: 20px;
-    float: left;
-    border-style: solid;
-    border-color: white;
+}
+
+@media screen and (max-width: 768px) {
+
+  body {
+    background-color: white;
   }
+}
+
+@media screen and (max-width: 640px) {
+  header {
+    margin: auto;
+  }
+
+  body {
+    background-color: white;
+  }
+
+  h1 {
+    text-align: center;
+  }
+
+  div {
+    text-align: center;
+
+  }
+
   a {
-      padding-left: 20px;
-      margin-right: 20px;
+    margin-right: 20px;
+    padding-left: 20px;
   }
-  
-  #about {
-    padding-left: 50px;
-    margin-right: 50px;
-  }
+}
 
-  p, h1, h4{
-      color: white;
-  }
-
-  .card {
-      float: left;
-      margin-left: 10px;
-      margin-right: 40px;
-      padding-right: 20px;
-  }
-
-  .form-group {
-      color: white;
-  }
-
-  .form-control {
-    width: 30%;
-  }
-
-  #contacts {
-     margin-left: 10px;
-  }
-
-  section {
-    padding-left: 400px;
-  }
-
-  
-  
-  @media screen and (max-width: 980px) {
-    
-    body {
-      background-color: white;
-      }
-  }
-    
-      @media screen and (max-width: 768px) {
-  
-        body {
-          background-color:white;
-        }
-      }
-  
-        @media screen and (max-width: 640px) {
-          header{
-            margin: auto;  
-          }
-        
-          body {
-           background-color: white;
-          }
-          h1 {
-            text-align: center;
-          }
-          div {
-            text-align: center;
-  
-          }
-          a {
-            margin-right: 20px;
-            padding-left: 20px;
-          }
-        }
-  
-         h1 {
-             padding-left: 40px;
-         } 
+h1 {
+  padding-left: 40px;
+}
